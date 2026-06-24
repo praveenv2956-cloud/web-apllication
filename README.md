@@ -5,7 +5,8 @@ TopicDescriptionEvolution of Web ApplicationsStarted as static pages; now handle
 
 Chapter 2 — Core Defense Mechanisms
 
-TopicDescriptionAuthenticationVerifying who the user is (username/password, OTP, biometrics)Session ManagementServer tracks user after login using session tokens/cookiesAccess ControlRestricting what authenticated users can do or accessBoundary ValidationValidate input at every layer — client-side AND server-sideHandling ErrorsNever show detailed error messages to users — attackers exploit themMaintaining Audit LogsRecord all important actions (login, data changes) for investigationAlerting AdministratorsAutomatically alert when suspicious activity is detectedReacting to AttacksBlock IPs, lock accounts, terminate sessions when an attack is detected
+TopicDescriptionAuthenticationVerifying who the user is (username/password, OTP, biometrics)Session ManagementServer tracks 
+---user after login using session tokens/cookiesAccess ControlRestricting what authenticated users can do or accessBoundary ValidationValidate input at every layer — client-side AND server-sideHandling ErrorsNever show detailed error messages to users — attackers exploit themMaintaining Audit LogsRecord all important actions (login, data changes) for investigationAlerting AdministratorsAutomatically alert when suspicious activity is detectedReacting to AttacksBlock IPs, lock accounts, terminate sessions when an attack is detected
 
 
 Chapter 3 — Web Application Technologies
